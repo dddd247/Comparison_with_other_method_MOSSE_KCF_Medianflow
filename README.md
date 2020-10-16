@@ -41,6 +41,8 @@ python MOSSE_KCF_Medianflow.py --input ./video/Day_normal_1.mp4 --threshold 0.23
 
 (3) If you want to change the tracker to MOSSE or KCF or Medianflow, you can replace the tracker at the line 415 in MOSSE_KCF_Medianflow.py.
 
+(4) You can change the '--threshold' to adjust your performance.
+
 
 
 
