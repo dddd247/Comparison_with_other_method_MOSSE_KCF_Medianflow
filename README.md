@@ -33,7 +33,7 @@
    
    
 #### Run ( D_1 to D_5 and N_1 to N_5)
-(1) Run the code on the command line. (from D_1 to D_5)
+(1) Run the code on the command line. (from D_1 to N_5)
     
 python MOSSE_KCF_Medianflow.py --input ./video/Day_normal_1.mp4 --threshold 0.23               
     
